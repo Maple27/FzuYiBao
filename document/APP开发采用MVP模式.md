@@ -1,6 +1,9 @@
 ##APP开发采用MVP模式
+
 ###图解：
+
   ![](http://images2017.cnblogs.com/blog/1227422/201710/1227422-20171027221322758-92556507.png)
+  
 •    M(Model) 数据相关层
 
 •	V(View) 视图层，如Activity上的布局
