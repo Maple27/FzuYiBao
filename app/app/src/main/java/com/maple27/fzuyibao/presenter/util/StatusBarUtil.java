@@ -10,7 +10,7 @@ import android.view.WindowManager;
 import com.maple27.fzuyibao.R;
 
 /**
- * Created by Maple27 on 2017/7/10.
+ * Created by Maple27 on 2017/11/1.
  */
 
 public class StatusBarUtil {
